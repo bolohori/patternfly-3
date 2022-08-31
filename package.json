@@ -84,7 +84,7 @@
     "google-code-prettify": "~1.0.5",
     "jquery-match-height": "^0.7.2",
     "moment": "^2.19.1",
-    "moment-timezone": "^0.4.1",
+    "moment-timezone": "^0.5.35",
     "patternfly-bootstrap-combobox": "~1.1.7",
     "patternfly-bootstrap-treeview": "~2.1.10"
   },
